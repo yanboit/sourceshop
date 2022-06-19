@@ -23,19 +23,13 @@
 
 ### ✌️✌️✌️图片展示
 
-首页&商品页
+首页 | 商品页
+:-------------------------:|:-------------------------:
+![](https://up.imold.wang/myprojects/sourceshop/imgs/1.png)  |  ![](https://up.imold.wang/myprojects/sourceshop/imgs/2.png)
 
-<div style="display:flex">
-    <img src="https://up.imold.wang/myprojects/sourceshop/imgs/1.png" width="50%" height="auto" />
-    <img src="https://up.imold.wang/myprojects/sourceshop/imgs/2.png" width="50%" height="auto" />
-</div>
-
-登录页&注册页
-
-<div style="display:flex">
-    <img src="https://up.imold.wang/myprojects/sourceshop/imgs/3.png" width="50%" height="auto" />
-    <img src="https://up.imold.wang/myprojects/sourceshop/imgs/5.png" width="50%" height="auto" />
-</div>
+登录页 | 注册页
+:-------------------------:|:-------------------------:
+![](https://up.imold.wang/myprojects/sourceshop/imgs/3.png)  |  ![](https://up.imold.wang/myprojects/sourceshop/imgs/5.png)
 
 后台
 
