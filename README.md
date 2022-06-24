@@ -6,7 +6,7 @@
 
 ### 🙂🙂🙂项目介绍
 
-这是我在2022年上学期写的基于vue.js和element ui的响应式商城
+这是我在2021年写的基于vue.js和element ui的响应式商城
 
 在线演示：[https://source.imold.wang](https://source.imold.wang)
 
